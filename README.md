@@ -1,2 +1,3 @@
 # info2180-lab1
-Dynamic Web Dev
+This is Lab 1 for Roshane Roach
+
